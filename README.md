@@ -20,7 +20,8 @@ This project uses Machine Learning to detect whether a message is Spam or Not Sp
 
 ## Dataset
 
-SMS Spam Collection Dataset
+Dataset Used: SMS Spam Collection Dataset
+Download Link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?utm_source=chatgpt.com
 
 ## How to Run
 
