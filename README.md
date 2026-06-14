@@ -24,6 +24,15 @@ Dataset Used: SMS Spam Collection Dataset
 
 Download Link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?utm_source=chatgpt.com
 
+Dataset:
+SMS Spam Collection Dataset
+
+Source:
+https://archive.ics.uci.edu/dataset/228/sms+spam+collection
+
+Description:
+The dataset contains 5,572 SMS messages labeled as either spam or ham (not spam).
+
 ## How to Run
 
 Install dependencies:
