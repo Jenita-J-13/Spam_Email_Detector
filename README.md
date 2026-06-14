@@ -28,7 +28,7 @@ Dataset:
 SMS Spam Collection Dataset
 
 Source:
-https://archive.ics.uci.edu/dataset/228/sms+spam+collection
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 Description:
 The dataset contains 5,572 SMS messages labeled as either spam or ham (not spam).
